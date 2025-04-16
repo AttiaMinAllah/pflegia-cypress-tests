@@ -1,0 +1,15 @@
+{
+  "name": "pflegia-cypress-tests",
+  "version": "1.0.0",
+  "description": "Cypress E2E tests for the Pflegia job board using Page Object Model (POM)",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run"
+  },
+  "keywords": [""],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^14.3.0"
+  }
+}
