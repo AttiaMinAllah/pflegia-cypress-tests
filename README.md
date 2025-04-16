@@ -1,4 +1,4 @@
-# 🧪 Pflegia Cypress Tests
+# Pflegia Cypress Tests
 
 End-to-end tests for the Pflegia job board using Cypress and the Page Object Model (POM).
 
